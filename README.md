@@ -1,9 +1,8 @@
 # 您好！I'm Jackie 🦁 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackie-LIONS&theme=blue-green&show_icons=true"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact" style="height:180px"/>
-
+<div style="display: flex;">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackie-LIONS&theme=blue-green&show_icons=true" style="flex: 1;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact" style="height:180px; flex: 1;" />
+</div>
 <br/>
 <br/>
 <br/>
