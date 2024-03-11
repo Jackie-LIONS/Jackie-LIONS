@@ -1,7 +1,7 @@
 # 您好！I'm Jackie 🦁 
 <div style="display: flex;">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackie-LIONS&theme=blue-green&show_icons=true" style="flex: 1;"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact" style="flex: 1;" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackie-LIONS&theme=blue-green&show_icons=true" style="flex: 1;height:160px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact" style="flex: 1;height:130px" />
 </div>
 <br/>
 <br/>
@@ -9,8 +9,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 
