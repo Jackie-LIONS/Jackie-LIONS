@@ -1,8 +1,8 @@
-# 您好！我是 Jackie 🦁 
+# 您好！I'm Jackie 🦁 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jackie-LIONS&theme=blue-green&show_icons=true"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact" style="height:200px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact" style="height:180px"/>
 
 <br/>
 <br/>
