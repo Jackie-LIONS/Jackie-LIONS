@@ -39,3 +39,116 @@ location:   China
 blog:       https://lions.blog.csdn.net/
 motto:      书山有路勤为径，学海无涯苦作舟
 hobbies:    [写博客, 折腾技术, 熬夜改 Bug]
+```
+
+- 🔭 目前专注于 **后端开发 / 系统架构** 方向
+- 🌱 持续学习中：**分布式、微服务、云原生**
+- ✍️ 日常在 [CSDN](https://lions.blog.csdn.net/) 记录踩坑与心得
+- 💬 欢迎各位大佬交流指点，一起进步！
+
+<br/>
+
+<!-- ==================== 技术栈 ==================== -->
+## 🛠️ 技术栈
+
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Database & Middleware**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ==================== GitHub 数据 ==================== -->
+## 📊 GitHub 数据
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackie-LIONS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackie-LIONS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackie-LIONS&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=10B981&fire=FF6B6B&currStreakLabel=3B82F6" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jackie-LIONS&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- ==================== 活跃度图表 ==================== -->
+## 📈 贡献活跃度
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jackie-LIONS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- ==================== 贪吃蛇动画（需配置 Action） ==================== -->
+## 🐍 我的贡献被吃掉了
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackie-LIONS/Jackie-LIONS/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jackie-LIONS/Jackie-LIONS/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Jackie-LIONS/Jackie-LIONS/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ==================== 博客 ==================== -->
+## 📝 最新博客
+
+<!-- BLOG-POST-LIST:START -->
+- 🦁 正在努力码字中……
+<!-- BLOG-POST-LIST:END -->
+
+> 更多文章请移步 👉 [狮子也疯狂 - CSDN](https://lions.blog.csdn.net/)
+
+<br/>
+
+<!-- ==================== 座右铭 ==================== -->
+<div align="center">
+
+### 💭 座右铭
+
+> **书山有路勤为径，学海无涯苦作舟**
+
+⭐️ 如果我的项目对你有帮助，欢迎点个 **Star** 支持一下！
+
+</div>
+
+<br/>
+
+<!-- ==================== 底部波浪 ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:6366F1,100:3B82F6&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" />
+</div>
