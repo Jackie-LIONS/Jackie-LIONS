@@ -20,9 +20,6 @@
   <a href="https://github.com/Jackie-LIONS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Jackie--LIONS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Jackie-LIONS&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Visitor Count" />
 </div>
 
@@ -30,16 +27,6 @@
 
 <!-- ==================== 关于我 ==================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> 关于我
-
-```yaml
-name:       Jackie LIONS
-nickname:   狮子也疯狂 🦁
-role:       资深开发小学生
-location:   China
-blog:       https://lions.blog.csdn.net/
-motto:      书山有路勤为径，学海无涯苦作舟
-hobbies:    [写博客, 折腾技术, 熬夜改 Bug]
-```
 
 - 🔭 目前专注于 **后端开发 / 系统架构** 方向
 - 🌱 持续学习中：**分布式、微服务、云原生**
@@ -65,20 +52,17 @@ hobbies:    [写博客, 折腾技术, 熬夜改 Bug]
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -96,40 +80,10 @@ hobbies:    [写博客, 折腾技术, 熬夜改 Bug]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackie-LIONS&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=10B981&fire=FF6B6B&currStreakLabel=3B82F6" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jackie-LIONS&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
-
-<br/>
-
-<!-- ==================== 活跃度图表 ==================== -->
-## 📈 贡献活跃度
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jackie-LIONS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=10B981&point=FFFFFF&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- ==================== 贪吃蛇动画（需配置 Action） ==================== -->
-## 🐍 我的贡献被吃掉了
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jackie-LIONS/Jackie-LIONS/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jackie-LIONS/Jackie-LIONS/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Jackie-LIONS/Jackie-LIONS/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
 <br/>
 
 <!-- ==================== 博客 ==================== -->
 ## 📝 最新博客
-
-<!-- BLOG-POST-LIST:START -->
-- 🦁 正在努力码字中……
-<!-- BLOG-POST-LIST:END -->
 
 > 更多文章请移步 👉 [狮子也疯狂 - CSDN](https://lions.blog.csdn.net/)
 
