@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # 每天凌晨自动运行
-  workflow_dispatch: # 允许你手动点击运行
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   build:
@@ -11,14 +11,14 @@ jobs:
     permissions:
       contents: write # 必须加，否则无法创建 output 分支
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jackie-LIONS
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
